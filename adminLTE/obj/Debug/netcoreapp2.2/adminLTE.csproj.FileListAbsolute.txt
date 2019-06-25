@@ -29,3 +29,4 @@ C:\Users\Nadhilah\source\repos\adminLTE\adminLTE\obj\Debug\netcoreapp2.2\adminLT
 C:\Users\Nadhilah\source\repos\adminLTE\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.dll
 C:\Users\Nadhilah\source\repos\adminLTE\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.pdb
 C:\Users\Nadhilah\source\repos\adminLTE\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.csproj.CopyComplete
+C:\Users\Nadhilah\source\repos\adminLTE\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.g.cshtml.cs
