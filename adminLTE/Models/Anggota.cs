@@ -18,5 +18,7 @@ namespace adminLTE.Models
         public string Nim { get; set; }
         [Column(TypeName = "varchar(100)")]
         public string Jabatan { get; set; }
+        [Column(TypeName = "varchar(100)")]
+        public string Divisi { get; set; }
     }
 }

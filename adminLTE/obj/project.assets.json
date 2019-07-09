@@ -12933,23 +12933,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nadhilah\\.nuget\\packages\\": {},
+    "C:\\Users\\HP\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nadhilah\\source\\repos\\pklkita\\adminLTE\\adminLTE.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\pklkita\\adminLTE\\adminLTE.csproj",
       "projectName": "adminLTE",
-      "projectPath": "C:\\Users\\Nadhilah\\source\\repos\\pklkita\\adminLTE\\adminLTE.csproj",
-      "packagesPath": "C:\\Users\\Nadhilah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nadhilah\\source\\repos\\pklkita\\adminLTE\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Desktop\\pklkita\\adminLTE\\adminLTE.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\pklkita\\adminLTE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nadhilah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
