@@ -1,15 +1,36 @@
-﻿@{
+﻿@model IEnumerable<editPublikasi>
+@{
     ViewData["Title"] = "Timeline";
     Layout = "~/Views/Shared/_MainMenu.cshtml";
 }
 
+    <h1>
+        Timeline
+    </h1>
+<div>
+    <ul>
+        @foreach(var publikasi in Model)
+        {
+        <li>
+            <a asp-controller="Home" asp-action="editPublikasi" asp-route-id="@publikasi.Id">
+                @publikasi.Title
+            </a>
+            -
+            <a asp-controller="Home" asp-action="Publikasi" asp-route-id="@publikasi.Id">
+                Edit
+            </a>
+            -
+            <a asp-controller="Home" asp-action="Remove" asp-route-id="@publikasi.Id">
+                Remove
+            </a>
+        </li>
+        }
+    </ul>
+</div>
 
 <!-- Content Header (Page header) -->
 <section class="content-header">
-    <h1>
-        Timeline
-        <small>example</small>
-    </h1>
+    
     <ol class="breadcrumb">
         <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
         <li><a href="#">UI</a></li>

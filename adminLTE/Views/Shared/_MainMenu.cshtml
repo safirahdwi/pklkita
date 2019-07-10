@@ -12,9 +12,6 @@
     <link rel="stylesheet" href="~/bower_components/font-awesome/css/font-awesome.min.css">
     <!-- Ionicons -->
     <link rel="stylesheet" href="~/bower_components/Ionicons/css/ionicons.min.css">
-    <!-- fullCalendar -->
-    <link rel="stylesheet" href="~/bower_components/fullcalendar/dist/fullcalendar.min.css">
-    
     <!-- Theme style -->
     <link rel="stylesheet" href="~/dist/css/AdminLTE.min.css">
     <!-- AdminLTE Skins. Choose a skin from the css/skins
@@ -38,8 +35,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <!-- Google Font -->
-    <link rel="stylesheet" 
-          href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 </head>
 <body class="hold-transition skin-blue sidebar-mini">
     <div class="wrapper">
@@ -69,9 +65,9 @@
                                 <!-- User image -->
                                 <li class="user-header">
                                     <img src="~/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
-                                    <p>
+                                        <p>
                                         Alexander Pierce
-                                    </p>
+                                        </p>
                                 </li>
                                 <!-- Menu Footer-->
                                 <li class="user-footer">
@@ -93,13 +89,13 @@
                 <div class="profile user-panel">
                     <div class="pull-right">
                         <img src="~/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image" style="width:50%">
-                        <p style="color:white">Alexander Pierce</p>
+                            <p style="color:white">Alexander Pierce</p>
+                        </div>
+                        <!-- Sidebar user Profile -->
+                        <div class="pull-right">
+                            <a href="home/profile" class="btn_edit">Edit Profile</a>
+                        </div>
                     </div>
-                    <!-- Sidebar user Profile -->
-                    <div class="pull-right">
-                        <a href="#" class="btn_edit">Edit Profile</a>
-                    </div>
-                </div>
                 <!-- search form -->
                 <form action="#" method="get" class="sidebar-form">
                     <div class="input-group">
@@ -115,31 +111,31 @@
                 <!-- sidebar menu: : style can be found in sidebar.less -->
                 <ul class="sidebar-menu" data-widget="tree">
                     <li class="header">MAIN NAVIGATION</li>
-                    <li>
+                    <li class="active treeview">
                         <a asp-controller="Home" asp-action="Beranda">
                             <i class="fa fa-circle-o"></i> <span>Beranda</span>
                         </a>
                     </li>
-                    <li>
-                        <a href="https://localhost:44384/Home/Daftarprestasi">
+                    <li class="treeview">
+                        <a href="http://www.google.com">
                             <i class="fa fa-circle-o"></i>
                             <span>Daftar Prestasi</span>
                         </a>
                     </li>
                     <li>
-                        <a href="https://localhost:44384/Anggota/Daftaranggota">
+                        <a href="home/Daftaranggota">
                             <i class="fa fa-circle-o"></i>
                             <span>Daftar Anggota</span>
                         </a>
                     </li>
-                    <li>
-                        <a href="https://localhost:44384/Home/Pengarsipan">
+                    <li class="treeview">
+                        <a href="#">
                             <i class="fa fa-circle-o"></i>
                             <span>Pengarsipan</span>
                         </a>
                     </li>
-                    <li>
-                        <a href="https://localhost:44384/Home/KalenderKegiatan">
+                    <li class="treeview">
+                        <a href="home/Kalenderkegiatan">
                             <i class="fa fa-circle-o"></i>
                             <span>Kalender Kegiatan</span>
                         </a>
@@ -154,7 +150,7 @@
                         </a>
                         <ul class="treeview-menu">
                             <li><a href="https://localhost:44384/Home/Publikasi"><i class="fa fa-edit"></i> Write </a></li>
-                            <li><a href="https://localhost:44384/Home/PreviewPublikasi"> <i class="fa fa-edit"></i> Preview </a></li>
+                            <li><a href="https://localhost:44384/Home/editPublikasi"> <i class="fa fa-edit"></i> Preview </a></li>
                         </ul>
                     </li>
                     <li class="treeview">
@@ -240,7 +236,7 @@
         </aside>
         <!-- Content Wrapper. Contains page content -->
         <div class="content-wrapper">
-            @RenderBody()
+           @RenderBody();
         </div>
         <!-- /.content-wrapper -->
         <footer class="main-footer">
@@ -483,9 +479,5 @@
     <script src="~/dist/js/pages/dashboard.js"></script>
     <!-- AdminLTE for demo purposes -->
     <script src="~/dist/js/demo.js"></script>
-    <!-- fullCalendar -->
-    <script src="~/bower_components/moment/moment.js"></script>
-    <script src="~/bower_components/fullcalendar/dist/fullcalendar.min.js"></script>
-    <!-- Page specific script -->
 </body>
 </html>

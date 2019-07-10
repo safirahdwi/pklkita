@@ -67,93 +67,78 @@ C:\Users\Nadhilah\source\repos\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Vi
 C:\Users\Nadhilah\source\repos\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Profile.g.cshtml.cs
 C:\Users\Nadhilah\source\repos\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Daftaranggota.g.cshtml.cs
 C:\Users\Nadhilah\source\repos\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Publikasi.g.cshtml.cs
-C:\Users\Nadhilah\source\repos\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\coba.g.cshtml.cs
-C:\Users\Nadhilah\source\repos\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Daftarprestasi.g.cshtml.cs
-C:\Users\Nadhilah\source\repos\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pengarsipan.g.cshtml.cs
-C:\Users\Nadhilah\source\repos\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\PreviewPublikasi.g.cshtml.cs
-C:\Users\Nadhilah\source\repos\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Anggota\AddorEdit.g.cshtml.cs
-C:\Users\Nadhilah\source\repos\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Anggota\Daftaranggota.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.deps.json
-C:\Users\HP\Desktop\pklkita\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.runtimeconfig.json
-C:\Users\HP\Desktop\pklkita\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.runtimeconfig.dev.json
-C:\Users\HP\Desktop\pklkita\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.dll
-C:\Users\HP\Desktop\pklkita\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.pdb
-C:\Users\HP\Desktop\pklkita\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.Views.dll
-C:\Users\HP\Desktop\pklkita\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.Views.pdb
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.csprojAssemblyReference.cache
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.csproj.CoreCompileInputs.cache
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorAssemblyInfo.cache
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorAssemblyInfo.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.AssemblyInfoInputs.cache
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.AssemblyInfo.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.TagHelpers.input.cache
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.TagHelpers.output.cache
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorCoreGenerate.cache
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Anggota\AddorEdit.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Anggota\Daftaranggota.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Beranda.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\coba.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Daftarprestasi.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\KalenderKegiatan.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\login.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pengarsipan.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\PreviewPublikasi.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Profile.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Publikasi.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_MainMenu.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorTargetAssemblyInfo.cache
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorTargetAssemblyInfo.cs
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.Views.pdb
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.dll
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.pdb
-C:\Users\HP\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.csproj.CopyComplete
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.deps.json
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.runtimeconfig.json
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.runtimeconfig.dev.json
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.dll
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.pdb
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.Views.dll
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.Views.pdb
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.csprojAssemblyReference.cache
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.csproj.CoreCompileInputs.cache
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorAssemblyInfo.cache
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorAssemblyInfo.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.AssemblyInfoInputs.cache
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.AssemblyInfo.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.TagHelpers.input.cache
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.TagHelpers.output.cache
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorCoreGenerate.cache
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Anggota\AddorEdit.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Anggota\Daftaranggota.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Beranda.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\coba.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Daftarprestasi.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\KalenderKegiatan.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\login.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pengarsipan.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\PreviewPublikasi.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Profile.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Publikasi.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_MainMenu.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorTargetAssemblyInfo.cache
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorTargetAssemblyInfo.cs
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.Views.pdb
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.dll
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.pdb
-C:\Users\Nadhilah\Desktop\pklkita\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.csproj.CopyComplete
+E:\siap\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.deps.json
+E:\siap\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.runtimeconfig.json
+E:\siap\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.runtimeconfig.dev.json
+E:\siap\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.dll
+E:\siap\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.pdb
+E:\siap\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.Views.dll
+E:\siap\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.Views.pdb
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.csprojAssemblyReference.cache
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.csproj.CoreCompileInputs.cache
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorAssemblyInfo.cache
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorAssemblyInfo.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.AssemblyInfoInputs.cache
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.AssemblyInfo.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.TagHelpers.input.cache
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.TagHelpers.output.cache
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorCoreGenerate.cache
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Beranda.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Daftaranggota.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\KalenderKegiatan.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\login.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Profile.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Publikasi.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_MainMenu.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorTargetAssemblyInfo.cache
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorTargetAssemblyInfo.cs
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.Views.pdb
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.dll
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.pdb
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.csproj.CopyComplete
+E:\siap\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\editPublikasi.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.csprojAssemblyReference.cache
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.csproj.CoreCompileInputs.cache
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorAssemblyInfo.cache
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorAssemblyInfo.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.AssemblyInfoInputs.cache
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.AssemblyInfo.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.dll
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.pdb
+E:\siap - Copy\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.deps.json
+E:\siap - Copy\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.runtimeconfig.json
+E:\siap - Copy\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.runtimeconfig.dev.json
+E:\siap - Copy\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.dll
+E:\siap - Copy\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.pdb
+E:\siap - Copy\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.Views.dll
+E:\siap - Copy\adminLTE\bin\Debug\netcoreapp2.2\adminLTE.Views.pdb
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.TagHelpers.input.cache
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.TagHelpers.output.cache
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorCoreGenerate.cache
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Beranda.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Daftaranggota.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\editPublikasi.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\KalenderKegiatan.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\login.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Profile.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Publikasi.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_MainMenu.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorTargetAssemblyInfo.cache
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.RazorTargetAssemblyInfo.cs
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.Views.pdb
+E:\siap - Copy\adminLTE\obj\Debug\netcoreapp2.2\adminLTE.csproj.CopyComplete
