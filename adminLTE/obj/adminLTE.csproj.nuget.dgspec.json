@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\Nadhilah\\Desktop\\New folder\\pklkita\\adminLTE\\adminLTE.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nadhilah\\Desktop\\New folder\\pklkita\\adminLTE\\adminLTE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nadhilah\\Desktop\\New folder\\pklkita\\adminLTE\\adminLTE.csproj",
+        "projectName": "adminLTE",
+        "projectPath": "C:\\Users\\Nadhilah\\Desktop\\New folder\\pklkita\\adminLTE\\adminLTE.csproj",
+        "packagesPath": "C:\\Users\\Nadhilah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nadhilah\\Desktop\\New folder\\pklkita\\adminLTE\\obj\\",
+=======
     "E:\\siap - Copy\\adminLTE\\adminLTE.csproj": {}
   },
   "projects": {
@@ -12,6 +25,7 @@
         "projectPath": "E:\\siap - Copy\\adminLTE\\adminLTE.csproj",
         "packagesPath": "C:\\Users\\Dwika Ayu Noianti\\.nuget\\packages\\",
         "outputPath": "E:\\siap - Copy\\adminLTE\\obj\\",
+>>>>>>> 307db3e90c56ad13abb40ac7e710f33db06114b4
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,6 +63,28 @@
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
               "target": "Package",
               "version": "[2.2.0, )"
             },
