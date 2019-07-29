@@ -10,11 +10,21 @@ namespace adminLTE.Controllers
         {
             return View();
         }
+
+        public IActionResult Login()
+        {
+            return View();
+        }
         public IActionResult Profile()
         {
             return View();
         }
+
         public IActionResult Beranda()
+        {
+            return View();
+        }
+        public IActionResult Daftaranggota()
         {
             return View();
         }

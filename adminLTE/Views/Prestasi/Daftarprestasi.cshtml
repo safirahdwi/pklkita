@@ -1,18 +1,18 @@
-﻿@model IEnumerable<adminLTE.Models.Anggota>
+﻿@model IEnumerable<adminLTE.Models.Prestasi>
 
 @{
-    ViewData["Title"] = "Daftar Anggota";
+    ViewData["Title"] = "Daftar Prestasi";
     Layout = "~/Views/Shared/_MainMenu.cshtml";
 }
 <!-- Content Header (Page header) -->
 <section class="content-header">
     <h1>
-        Daftar Anggota
+        Daftar Prestasi
         <small>advanced tables</small>
     </h1>
     <ol class="breadcrumb">
         <li><a href="https://localhost:44384/Home/Beranda"><i class="fa fa-dashboard"></i> Home</a></li>
-        <li class="active">Daftar Anggota</li>
+        <li class="active">Daftar Prestasi</li>
     </ol>
 </section>
 
@@ -56,45 +56,45 @@
                                                 @Html.DisplayNameFor(model => model.Nama)
                                             </th>
                                             <th>
-                                                @Html.DisplayNameFor(model => model.Nim)
+                                                @Html.DisplayNameFor(model => model.NamaPrestasi)
                                             </th>
                                             <th>
-                                                @Html.DisplayNameFor(model => model.Jabatan)
+                                                @Html.DisplayNameFor(model => model.Tahun)
                                             </th>
                                             <th>
-                                                @Html.DisplayNameFor(model => model.Divisi)
+                                                @Html.DisplayNameFor(model => model.Kegiatan)
                                             </th>
                                             <th>
-                                                <a asp-action="AddOrEdit" class="btn btn-outline-success"><i class="far fa-plus-square"></i>Add Anggota</a>
+                                                <a asp-action="AddOrEdit" class="btn btn-outline-success"><i class="far fa-plus-square"></i>Add Prestasi</a>
                                             </th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         @foreach (var item in Model)
                                         {
-                                        <tr>
-                                            <td>
-                                                @Html.DisplayFor(modelItem => item.Nama)
-                                            </td>
-                                            <td>
-                                                @Html.DisplayFor(modelItem => item.Nim)
-                                            </td>
-                                            <td>
-                                                @Html.DisplayFor(modelItem => item.Jabatan)
-                                            </td>
-                                            <td>
-                                                @Html.DisplayFor(modelItem => item.Divisi)
-                                            </td>
-                                            <td>
-                                                <a asp-action="AddOrEdit" asp-route-id="@item.AnggotaID">Edit</a> |
-                                                <a asp-action="Delete" asp-route-id="@item.AnggotaID" onclick="return confirm('Are you sure to delete this record?')">Delete</a>
-                                            </td>
-                                        </tr>
+                                            <tr>
+                                                <td>
+                                                    @Html.DisplayFor(modelItem => item.Nama)
+                                                </td>
+                                                <td>
+                                                    @Html.DisplayFor(modelItem => item.NamaPrestasi)
+                                                </td>
+                                                <td>
+                                                    @Html.DisplayFor(modelItem => item.Tahun)
+                                                </td>
+                                                <td>
+                                                    @Html.DisplayFor(modelItem => item.Kegiatan)
+                                                </td>
+                                                <td>
+                                                    <a asp-action="AddOrEdit" asp-route-id="@item.PrestasiID">Edit</a> |
+                                                    <a asp-action="Delete" asp-route-id="@item.PrestasiID" onclick="return confirm('Are you sure to delete this record?')">Delete</a>
+                                                </td>
+                                            </tr>
                                         }
                                     </tbody>
                                 </table>
                             </div>
-                        </div><div class="row"><div class="col-sm-5"><div aria-live="polite" role="status" id="example1_info" class="dataTables_info">Showing 1 to 10 of 57 entries</div></div><div class="col-sm-7"><div id="example1_paginate" class="dataTables_paginate paging_simple_numbers"><ul class="pagination"><li id="example1_previous" class="paginate_button previous disabled"><a tabindex="0" data-dt-idx="0" aria-controls="example1" href="#">Previous</a></li><li class="paginate_button active"><a tabindex="0" data-dt-idx="1" aria-controls="example1" href="#">1</a></li><li class="paginate_button "><a tabindex="0" data-dt-idx="2" aria-controls="example1" href="#">2</a></li><li class="paginate_button "><a tabindex="0" data-dt-idx="3" aria-controls="example1" href="#">3</a></li><li class="paginate_button "><a tabindex="0" data-dt-idx="4" aria-controls="example1" href="#">4</a></li><li class="paginate_button "><a tabindex="0" data-dt-idx="5" aria-controls="example1" href="#">5</a></li><li class="paginate_button "><a tabindex="0" data-dt-idx="6" aria-controls="example1" href="#">6</a></li><li id="example1_next" class="paginate_button next"><a tabindex="0" data-dt-idx="7" aria-controls="example1" href="#">Next</a></li></ul></div></div></div>
+                        </div>
                     </div>
                 </div>
                 <!-- /.box-body -->

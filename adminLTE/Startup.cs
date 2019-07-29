@@ -36,11 +36,6 @@ namespace adminLTE
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<AnggotaContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
-
-            services.AddDistributedMemoryCache();
-            services.AddSession();
-            services.AddDbContext<AkunPenggunaContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -60,13 +55,12 @@ namespace adminLTE
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
-            app.UseSession();
 
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Login}/{action=Login}/{id?}");
+                    template: "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }
